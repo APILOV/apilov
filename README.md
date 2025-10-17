@@ -13,5 +13,6 @@
 В моих репозиториях — хроника моего роста. Заходите через полгода за результатом!
 
 Связь:
-![Static Badge](https://img.shields.io/badge/%40APILOV_DEV-2CA5E0?style=for-the-badge&label=TG%3A&link=https%3A%2F%2Ft.me%2FAPILOV_DEV)
+
+![Static Badge](https://img.shields.io/badge/%40APILOV_DEV-2CA5E0?style=for-the-badge&label=TG%3A&link=https://t.me/APILOV_DEV)
 
